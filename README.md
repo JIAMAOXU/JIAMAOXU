@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Matthew Xu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Hardware developer from CHINA </h3>
 
 - 🔭 I’m currently working on **RISC-V Core development**
 
