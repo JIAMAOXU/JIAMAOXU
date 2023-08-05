@@ -12,9 +12,9 @@
 
 - ⚡ Fun fact **I'm ISTJ**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiamaoxu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIAMAOXU)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiamaoxu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAMAOXU)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 </p>
