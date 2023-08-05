@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact **I'm ISTJ**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIAMAOXU)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAMAOXU&langs_count=10)
 <p align="left">
